@@ -1,0 +1,21 @@
+body{
+  text-align: center;
+  padding-top: 40px;
+  background-image: url(../images/whirlpool.png);
+  background-repeat: repeat;
+
+}
+
+h2:hover{
+  color: grey;
+}
+
+#main{
+  text-align: center;
+  height: 350px;
+  width: 800px;
+  border-style: ridge;
+  margin: auto;
+  padding: 75px;
+  background-image: url(../images/quiz_bg.jpg);
+}
